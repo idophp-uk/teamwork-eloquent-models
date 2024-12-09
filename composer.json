@@ -1,0 +1,26 @@
+{
+  "name": "idophp-uk/teamwork-eloquent-models",
+  "type": "library",
+  "description": "Eloquent models for interacting with a Teamwork.com database backup",
+  "homepage": "https://github.com/idophp-uk/teamwork-eloquent-models",
+  "license": "GPL-2.0-only",
+  "keywords": [
+    "teamwork",
+    "eloquent"
+  ],
+  "authors": [
+    {
+      "name": "Iain Cuthbertson",
+      "email": "iain.cuthbertson@idophp.co.uk"
+    }
+  ],
+  "require": {
+    "illuminate/database": "*",
+    "nesbot/carbon": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Idophp\\TeamworkEloquentModels\\": "src"
+    }
+  }
+}
