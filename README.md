@@ -6,7 +6,7 @@ This library might work with other versions of Laravel.
 
 Usage:
 ```shell
-composer require Idophp/teamwork-eloquent-models
+composer require idophp-uk/teamwork-eloquent-models
 ```
 
 ```php
