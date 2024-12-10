@@ -15,9 +15,9 @@
     }
   ],
   "require": {
-    "php": "^7.3|^8.0",
-    "illuminate/database": "^5.3",
-    "nesbot/carbon": "^1"
+    "php": "^8.2",
+    "illuminate/database": "^v11.34",
+    "nesbot/carbon": "^3.8"
   },
   "autoload": {
     "psr-4": {
